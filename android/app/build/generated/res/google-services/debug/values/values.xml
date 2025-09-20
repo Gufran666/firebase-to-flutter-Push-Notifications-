@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">940230286712</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_YlnCCTYbQo2_AuQpinto3eZAWCksvXc</string>
+    <string name="google_app_id" translatable="false">1:940230286712:android:eda0bb6c8929ce38fa3c8d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_YlnCCTYbQo2_AuQpinto3eZAWCksvXc</string>
+    <string name="google_storage_bucket" translatable="false">motivationapp-c481b.firebasestorage.app</string>
+    <string name="project_id" translatable="false">motivationapp-c481b</string>
+</resources>

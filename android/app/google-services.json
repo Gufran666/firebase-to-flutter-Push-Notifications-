@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940230286712",
+    "project_id": "motivationapp-c481b",
+    "storage_bucket": "motivationapp-c481b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940230286712:android:eda0bb6c8929ce38fa3c8d",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YlnCCTYbQo2_AuQpinto3eZAWCksvXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
